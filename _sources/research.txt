@@ -16,7 +16,7 @@ the popular MDAnalysis (mdanalysis.googlecode.com) package. By bringing
 “BigData” tools to the computational biophysics community, we to answer
 questions on how proteins function in healthy conditions and how they
 malfunction in diseases, ultimately leading to physics-inspired answers
-on how to improve human health. The SPIDAL project will support the
+on how to improve human health. The Big Data Benchmark Classification will support the
 lab’s overarching aim to quantitatively predict the function and
 activity of proteins from the knowledge of their structures alone and so
 to better understand biological phenomena at the molecular level, in

@@ -71,7 +71,7 @@ MIDAS
 -  Rutgers University
 -  co-PI: Shantenu Jha
 
-As part of the SPIDAL Project, the RADICAL team at Rutgers is developing
+As part of the Big Data Benchmark Classification, the RADICAL team at Rutgers is developing
 a MIddleware for Data-intensive Analysis and Science (MIDAS) to support
 the wide range of applications and analytics algorithms that SPIDAL must
 support. These application and analytics algorithms must execute
